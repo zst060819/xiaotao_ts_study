@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/iaotao_ts-test/', /* 基础虚拟路径 */
+  base: '/xiaotao_ts-test/', /* 基础虚拟路径 */
   dest: 'docs/dist', /* 打包文件基础路径, 在命令所在目录下 */
   title: '尚硅谷前端: TypeScript 入门', // 标题
   description: '学习使用 TypeScript', // 标题下的描述
